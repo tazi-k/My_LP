@@ -89,3 +89,15 @@ a:hover {
 .service-heading {
   color: red;
 }
+
+ul.social-buttons li a {
+  background-color: #1DA1F2;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: red;
+}
+
+header.masthead .intro-text .intro-heading {
+    font-family: fantasy, Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
