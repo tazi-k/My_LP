@@ -2,6 +2,6 @@
 
 ## Descriptions
 
-＃ first_lp を 作って HTML, CSS を 学習していこう！
+＃ 自己紹介LPです！
 
-＃ https://masagao.github.io/first_lp/
+＃ https://tazi-k.github.io/My_LP/
