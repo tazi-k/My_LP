@@ -101,3 +101,8 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 header.masthead .intro-text .intro-heading {
     font-family: fantasy, MarkerFelt-Thin, Montserrat, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
+
+.im {
+    max-width: 100%;
+    height: auto;
+  }
