@@ -683,7 +683,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #ffcb6a;
 }
-@media (max-width: 400px){
+@media (max-width: 450px){
   header.masthead {
     text-align: center;
     color: white;
